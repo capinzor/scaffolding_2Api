@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :futbolista
   resources :estudiantes
   resources :mascota
   resources :vehiculos

@@ -1,0 +1,2 @@
+class Futbolistum < ApplicationRecord
+end
