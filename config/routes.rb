@@ -1,5 +1,4 @@
 Rails.application.routes.draw do
-  resources :computadors
   resources :libros
   resources :futbolista
   resources :estudiantes
